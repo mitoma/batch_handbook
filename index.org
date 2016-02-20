@@ -217,47 +217,37 @@
 
 *** JSR-352
 
-    PDFはここから
-    https://jcp.org/en/jsr/detail?id=352
+    [[https://jcp.org/en/jsr/detail?id=352][PDF]]
 
 *** okachimachiorzさんの
 
-    Asakusaでの設計・実装の方法についてのドキュメント
-    http://d.hatena.ne.jp/okachimachiorz/20120121/1327146544
+    [[http://d.hatena.ne.jp/okachimachiorz/20120121/1327146544][Asakusaでの設計・実装の方法についてのドキュメント]]
 
-    バッチ設計と実装ガイド
-    http://www.asakusafw.com/techinfo/methodology.html
+    [[http://www.asakusafw.com/techinfo/methodology.html][バッチ設計と実装ガイド]]
 
 *** wyukawaさんの
 
-    バッチ処理、ジョブ管理について書いてみるAdd Starhaishi
-    http://d.hatena.ne.jp/wyukawa/20150617/1434509706
+    [[http://d.hatena.ne.jp/wyukawa/20150617/1434509706][バッチ処理、ジョブ管理について書いてみるAdd Starhaishi]]
 
-    バッチ処理の実装方法
-    http://d.hatena.ne.jp/wyukawa/20150925/1443166905
+    [[http://d.hatena.ne.jp/wyukawa/20150925/1443166905][バッチ処理の実装方法]]
 
 *** kawasimaさんの
+    
+    [[http://qiita.com/kawasima/items/ee863f23b4588b9792fb][多い日も安心設計]]
 
-    多い日も安心設計
-    http://qiita.com/kawasima/items/ee863f23b4588b9792fb
-
-    システムエンジニア Advent Calendar 2015
-    http://qiita.com/advent-calendar/2015/se
+    [[http://qiita.com/advent-calendar/2015/se][システムエンジニア Advent Calendar 2015]]
 
 *** コンポツさん
 
-    はてぶ
-    http://b.hatena.ne.jp/entry/mitomasan.hatenablog.com/entry/2016/02/17/232019
-    http://b.hatena.ne.jp/entry/mitomasan.hatenablog.com/entry/2016/02/19/004516
+    [[http://b.hatena.ne.jp/entry/mitomasan.hatenablog.com/entry/2016/02/17/232019][はてぶ1]]
+    [[http://b.hatena.ne.jp/entry/mitomasan.hatenablog.com/entry/2016/02/19/004516][はてぶ2]]
 
 *** qiita
 
-    教科書に載っていないけど、よい設計。
-    http://qiita.com/madilloar/items/67fb6ee0a64a5435bc28
+    [[http://qiita.com/madilloar/items/67fb6ee0a64a5435bc28][教科書に載っていないけど、よい設計。]]
     
 *** 本を書くときの参考
 
-    JavaScript Promiseの本
-    http://azu.github.io/promises-book/
-    技術書、それも売れるやつを書きたい人へ、編集者からのアドバイス
-    http://tsuchinoko.dmmlabs.com/?p=2303
+    [[http://azu.github.io/promises-book/][JavaScript Promiseの本]]
+    
+    [[http://tsuchinoko.dmmlabs.com/?p=2303][技術書、それも売れるやつを書きたい人へ、編集者からのアドバイス]]
