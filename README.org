@@ -2,8 +2,6 @@
 
   以下の2つのブログ記事を元にバッチ処理・設計のための基本的な内容を整理します。
 
-  Web系の自分が想像と障害で学んだバッチ処理・設計の基本
-  http://mitomasan.hatenablog.com/entry/2016/02/17/232019
+  [[http://mitomasan.hatenablog.com/entry/2016/02/17/232019][Web系の自分が想像と障害で学んだバッチ処理・設計の基本]]
 
-  続・Web系の自分が想像と障害で学んだバッチ処理・設計の基本
-  http://mitomasan.hatenablog.com/entry/2016/02/19/004516
+  [[http://mitomasan.hatenablog.com/entry/2016/02/19/004516][続・Web系の自分が想像と障害で学んだバッチ処理・設計の基本]]
